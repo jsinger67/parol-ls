@@ -1,4 +1,10 @@
-# parol-ls README
+# ATTENTION - This project was moved to [parol](https://github.com/jsinger67/parol)
+
+You can find it as a workspace member [here](https://github.com/jsinger67/parol/tree/main/crates/parol-ls).
+
+There is no further development in this repository here.
+
+## parol-ls README
 
 <!-- markdownlint-disable Inline HTML -->
 <br>
